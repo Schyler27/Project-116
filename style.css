@@ -1,0 +1,11 @@
+h3{
+    font-size: 30px !important;
+}
+
+canvas{
+    border: 5px solid black;
+    border-radius: 10px;
+    position: fixed;
+    margin-top: 175px;
+}
+
